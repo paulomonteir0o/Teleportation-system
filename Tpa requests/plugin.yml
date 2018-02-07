@@ -1,0 +1,5 @@
+name: TPA
+author: iPaaulosz_ (@paulomonteir0o)
+version: 1.0
+main: com.paulomonteir0o.tpa.Core
+description: System for teleportation requests for the public.
