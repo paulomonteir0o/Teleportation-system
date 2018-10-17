@@ -1,3 +1,3 @@
 # Teleportation-system
-Teleportation system for Spigot or Bukkit 1.8.x with json.
+Teleportation system for Spigot 1.8.x with json.
 by @paulomonteir0o
